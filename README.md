@@ -1,4 +1,5 @@
-**DEPLOYMENT LINK:** https://heart-disease-predictor-bn1d.onrender.com/
+**Live Deployment:** https://heart-disease-predictor-bn1d.onrender.com/
+
 ---
 # ❤️ Heart Disease Prediction using Machine Learning and Flask API
 
@@ -217,6 +218,11 @@ Render Deployment
 
 ---
 
+## Conclusion (Task 5)
+
+This project successfully developed and deployed a Heart Disease Prediction system using a Random Forest Classifier. The model demonstrated good performance in predicting the presence of heart disease based on patient health parameters. During deployment, challenges such as configuring the Flask application, managing project files, creating the required dependencies, and deploying the API on Render were encountered and resolved. Testing the API using Postman confirmed that the application was functioning correctly. This project highlights the importance of MLOps in machine learning, as it enables seamless integration of model training, deployment, testing, and maintenance. MLOps ensures that machine learning models are reliable, reproducible, scalable, and easily accessible through APIs, making them suitable for real-world applications.
+
+---
 
 # 📜 License
 
