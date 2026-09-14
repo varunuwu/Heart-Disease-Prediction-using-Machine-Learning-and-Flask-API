@@ -3,15 +3,6 @@
 ---
 # ❤️ Heart Disease Prediction using Machine Learning and Flask API
 
-**Name:** Varun Tiwari
-
-**Registration Number:** 23BAI10130
-
-**Application Number:** IN26009673
-
-**Batch Number:** 1A
-
-**Email:** varun.23bai10130@vitbhopal.ac.in
 
 ---
 
